@@ -1,0 +1,15 @@
+C:\Users\Liting Su\Documents\GitHub\DotNetCore2017Sample\DotNetCoreSample.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Liting Su\Documents\GitHub\DotNetCore2017Sample\DotNetCoreSample.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Liting Su\Documents\GitHub\DotNetCore2017Sample\DotNetCoreSample.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Liting Su\Documents\GitHub\DotNetCore2017Sample\DotNetCoreSample.Test\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Liting Su\Documents\GitHub\DotNetCore2017Sample\DotNetCoreSample.Test\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Liting Su\Documents\GitHub\DotNetCore2017Sample\DotNetCoreSample.Test\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Liting Su\Documents\GitHub\DotNetCore2017Sample\DotNetCoreSample.Test\bin\Debug\DotNetCoreSample.Test.dll
+C:\Users\Liting Su\Documents\GitHub\DotNetCore2017Sample\DotNetCoreSample.Test\bin\Debug\DotNetCoreSample.Test.pdb
+C:\Users\Liting Su\Documents\GitHub\DotNetCore2017Sample\DotNetCoreSample.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Liting Su\Documents\GitHub\DotNetCore2017Sample\DotNetCoreSample.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Liting Su\Documents\GitHub\DotNetCore2017Sample\DotNetCoreSample.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Liting Su\Documents\GitHub\DotNetCore2017Sample\DotNetCoreSample.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Liting Su\Documents\GitHub\DotNetCore2017Sample\DotNetCoreSample.Test\obj\Debug\DotNetCoreSample.Test.csprojResolveAssemblyReference.cache
+C:\Users\Liting Su\Documents\GitHub\DotNetCore2017Sample\DotNetCoreSample.Test\obj\Debug\DotNetCoreSample.Test.dll
+C:\Users\Liting Su\Documents\GitHub\DotNetCore2017Sample\DotNetCoreSample.Test\obj\Debug\DotNetCoreSample.Test.pdb

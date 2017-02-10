@@ -1,0 +1,10 @@
+C:\Users\Liting Su\Documents\GitHub\DotNetCore2017Sample\DotNetCoreSample\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Liting Su\Documents\GitHub\DotNetCore2017Sample\DotNetCoreSample\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Liting Su\Documents\GitHub\DotNetCore2017Sample\DotNetCoreSample\bin\Debug\netcoreapp1.1\DotNetCoreSample.deps.json
+C:\Users\Liting Su\Documents\GitHub\DotNetCore2017Sample\DotNetCoreSample\bin\Debug\netcoreapp1.1\DotNetCoreSample.runtimeconfig.json
+C:\Users\Liting Su\Documents\GitHub\DotNetCore2017Sample\DotNetCoreSample\bin\Debug\netcoreapp1.1\DotNetCoreSample.runtimeconfig.dev.json
+C:\Users\Liting Su\Documents\GitHub\DotNetCore2017Sample\DotNetCoreSample\bin\Debug\netcoreapp1.1\DotNetCoreSample.dll
+C:\Users\Liting Su\Documents\GitHub\DotNetCore2017Sample\DotNetCoreSample\bin\Debug\netcoreapp1.1\DotNetCoreSample.pdb
+C:\Users\Liting Su\Documents\GitHub\DotNetCore2017Sample\DotNetCoreSample\obj\Debug\netcoreapp1.1\DotNetCoreSample.AssemblyInfo.cs
+C:\Users\Liting Su\Documents\GitHub\DotNetCore2017Sample\DotNetCoreSample\obj\Debug\netcoreapp1.1\DotNetCoreSample.dll
+C:\Users\Liting Su\Documents\GitHub\DotNetCore2017Sample\DotNetCoreSample\obj\Debug\netcoreapp1.1\DotNetCoreSample.pdb
