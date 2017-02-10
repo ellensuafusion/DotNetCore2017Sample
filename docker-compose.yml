@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+  dotnetcoresample:
+    image: dotnetcoresample
+    build:
+      context: ./DotNetCoreSample
+      dockerfile: Dockerfile
