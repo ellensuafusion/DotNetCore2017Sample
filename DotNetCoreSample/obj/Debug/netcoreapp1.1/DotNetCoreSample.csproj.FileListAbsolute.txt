@@ -8,3 +8,4 @@ C:\Users\Liting Su\Documents\GitHub\DotNetCore2017Sample\DotNetCoreSample\bin\De
 C:\Users\Liting Su\Documents\GitHub\DotNetCore2017Sample\DotNetCoreSample\obj\Debug\netcoreapp1.1\DotNetCoreSample.AssemblyInfo.cs
 C:\Users\Liting Su\Documents\GitHub\DotNetCore2017Sample\DotNetCoreSample\obj\Debug\netcoreapp1.1\DotNetCoreSample.dll
 C:\Users\Liting Su\Documents\GitHub\DotNetCore2017Sample\DotNetCoreSample\obj\Debug\netcoreapp1.1\DotNetCoreSample.pdb
+C:\Users\Liting Su\Documents\GitHub\DotNetCore2017Sample\DotNetCoreSample\obj\Debug\netcoreapp1.1\DotNetCoreSample.csprojResolveAssemblyReference.cache
